@@ -8,8 +8,7 @@ public class Car {
 		private String mark;
 		private String regnumber;
 	
-	//pola publiczne X
-		//sobie testuję
+
 	//konstruktory
 		public Car(String mark, String regnumber)
 		{
