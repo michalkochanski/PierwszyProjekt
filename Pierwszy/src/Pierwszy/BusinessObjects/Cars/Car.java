@@ -4,7 +4,7 @@ public class Car {
 
 	//pola statyczne
 	
-	//pola prywatne
+	//pola prywatn
 		private String mark;
 		private String regnumber;
 	
